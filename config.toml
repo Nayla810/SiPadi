@@ -1,0 +1,15 @@
+[theme]
+primaryColor = "#bf9441"
+backgroundColor = "#7a8065"
+secondaryBackgroundColor = "#42472d"
+textColor = "#ffffff"
+font = "sans serif"
+
+[button]
+backgroundColor = "#bf9441"
+
+[input]
+backgroundColor = "#42472d"
+
+[sidebar]
+backgroundColor = "#42472d"
